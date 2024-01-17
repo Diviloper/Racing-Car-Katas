@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 
-import 'alarm.dart';
+import '../src/alarm.dart';
 
 void main() {
   test('Alarm is off by default', () {
